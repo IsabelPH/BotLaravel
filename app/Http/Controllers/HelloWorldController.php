@@ -8,6 +8,6 @@ class HelloWorldController extends Controller
 {
     public function get()
     {
-        return 'Hello World';
+        return 'Hello World from dailycord :3';
     }
 }
